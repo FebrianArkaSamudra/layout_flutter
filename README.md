@@ -1,3 +1,14 @@
+ ## note : 
+- Tugas Praktikum 1
+https://github.com/FebrianArkaSamudra/basic_layout_flutter
+
+- Praktikum 5 & Tugas Praktikum 2
+ https://github.com/FebrianArkaSamudra/FebrianArkaSamudra_mobile-programming/tree/main/Week%206/belanja
+
+
+ 
+ Praktikum 1 - 4 :
+ 
  # *Praktikum 1: Membangun Layout di Flutter*
 ## **Step 1-3**
 ![alt text](img/P1_Langkah1-3.png)
